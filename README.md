@@ -8,7 +8,7 @@
 ### **Developement Information**
 ==========================================================
 #### ** Original Version**
-(https://www.kashipara.com/project/codeigniter-php/1684/hotel-management-app-codeigniter-php-project-code) 
+(https://github.com/ashishraj1408/ci_hms.git) 
 ==========================================================
 
 
